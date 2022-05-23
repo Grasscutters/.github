@@ -6,4 +6,4 @@ We're 'The Grasscutters'. A software development team that designs software to e
 - [Grassclipper: The launcher for Grasscutter & anime game](https://github.com/Grasscutters/GrassClipper)
 - [Cultivation: The new-and-improved launcher for anime game](https://github.com/Grasscutters/Cultivation)
 
-#### *initially created by [Melledy](https://github.com/Melledy)*
+#### *initially created by [Meledy](https://github.com/Melledy)*
