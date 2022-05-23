@@ -1,12 +1,9 @@
 ## Hi there 👋
+We're 'The Grasscutters'. A software development team that designs software to emulate *a certain anime game*.
 
-<!--
+## Projects
+- [Grasscutter: The anime game server emulator](https://github.com/Grasscutters/Grasscutter)
+- [Grassclipper: The launcher for Grasscutter & anime game](https://github.com/Grasscutters/GrassClipper)
+- [Cultivation: The new-and-improved launcher for anime game](https://github.com/Grasscutters/Cultivation)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### *initially created by [Melledy](https://github.com/Melledy)*
